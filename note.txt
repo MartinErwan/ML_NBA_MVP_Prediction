@@ -1,0 +1,7 @@
+rajouter une variable : est mvp l'année d'avant ou y'a 2 ans
+rajouter des variables : statistiques par match ( nb de points dans les 5 dernières minutes )
+Réseau de neurones? XGBOOST?
+Analyse descriptive (corrélation entre les variables )
+Regarder en amont les variables pour garder que les + pertinentes ( virer les variables trop corrélée au dessus de 0.5 )
+méthode validation croisée kfold pour le test de performance
+commencer à tester pour d'autre chose que le MVP ( meilleur défenseur )
