@@ -1,0 +1,40 @@
+Player : Nom du joueur
+Pos : Son rôle sur le terrain
+Age : Son âge
+G : Nombre de match joué
+GS : Nombre de match dans lequel le joueur était titulaire au lancement
+MP : Nombre de minutes joué par match ( moyenne )
+FG : Nombre de panier marqué sans les lancer franc en moyenne
+FGA : Nombre de tir tenté en moyenne
+FG% : % de tir réussi en moyenne
+3P : Nombre de 3 points par match en moyenne
+3PA --
+3P% --
+2P --
+2PA --
+2P% --
+eFG% : Une variante de FG% pour prendre en compte le fait que les 3P compte plus que les 2P
+FT : Nombre de lancer franc par match en moyenne
+FTA : --
+FT% : --
+ORB : Rebond offensif ( balle récupérée après un tir de lui ou d'un coéquipier )
+DRB : Rebond defensif (balle récupérée après un tir de l'adversaire )
+TRB : Nombre total de Rebond par match en moyenne
+AST : Nombre d'assist par match en moyenne
+STL : Nombre de ballon récupéré par match en moyenne
+BLK : Nombre de tir bloqué par match en moyenne
+TOV : Perte de balle
+PF : Faute par match en moyenne
+PTS : Nombre de points par match
+Year : Année de la saison 
+Share : Part des points pour le MVP récupéré
+Team
+W Nombre de match gagné par l'équipe du joueur
+L Nombre de match perdu par l'équipe du joueur
+W/L% : % de victoire
+GB : Nombre de victoire pour rattraper le premier de la league
+PS/G Points par match de l'équipe en moyenne
+PA/G Nombre de Points de l'adversaire par match en moyenne
+SRS Métrique qui évalue la qualité de l'équipe
+MVP_Y-1 Si le joueur a été MVP l'année précédente
+MVP_Y-1_Y-2 Si le joueur a été MVP les 2 années précédentes
